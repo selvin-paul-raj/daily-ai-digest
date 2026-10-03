@@ -25,6 +25,7 @@ LOG.md                 one line per day, newest first
 
 | Date | Topic | LinkedIn |
 |---|---|---|
+| 2026-10-03 | Apple tightens Full Disk Access over AI agents | [view](https://www.linkedin.com/feed/update/urn:li:activity:7512015080704610304/) |
 | 2026-10-02 | OpenAI rogue agents and the cheap tool-call gate | [view](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511655767582887936/) |
 | 2026-09-30 (b) | DeepSeek open sources its Huawei Ascend stack | [view](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511017675616227329) |
 | 2026-09-30 | OpenAI DevDay pricing vs the MCP OAuth flaw | [view](https://www.linkedin.com/feed/update/urn:li:activity:7510958485505802240/) |
