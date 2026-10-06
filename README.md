@@ -25,6 +25,7 @@ LOG.md                 one line per day, newest first
 
 | Date | Topic | LinkedIn |
 |---|---|---|
+| 2026-10-06 | Reflection Beam and the two-token RL gap | [view](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513102435717017600/) |
 | 2026-10-05 | AI found the bug Wednesday, attackers used it Thursday | [view](https://www.linkedin.com/feed/update/urn:li:activity:7512739625124294657/) |
 | 2026-10-03 | Apple tightens Full Disk Access over AI agents | [view](https://www.linkedin.com/feed/update/urn:li:activity:7512015080704610304/) |
 | 2026-10-02 | OpenAI rogue agents and the cheap tool-call gate | [view](https://www.linkedin.com/feed/update/urn:li:ugcPost:7511655767582887936/) |
