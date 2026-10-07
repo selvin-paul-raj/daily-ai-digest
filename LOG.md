@@ -2,6 +2,7 @@
 
 Newest first.
 
+- **2026-10-07** NVIDIA paper prices out agentic retrieval (+8.7 nDCG@10 at 107.4 s vs 0.67 s per query), plus Mistral Large 4 preview (1T, 49B active) and Sierra/Meta Personal Agent Protocol; also Anthropic CVP tiers and OPPD. Angle: agentic retrieval is a second tier behind the vector index, routing is the engineering work. 5-page carousel. [Post](https://www.linkedin.com/feed/update/urn:li:activity:7513465334754992129/)
 - **2026-10-06** Reflection Beam (501B open-weight MoE, 100M+ RL rollouts) plus MIT's token-cue paper showing two opening tokens close most of the RL gap; also Dots swarm covering bound and Looped Models II. Angle: RL mostly surfaces what base models know; test a prefill before fine-tuning. 4-page carousel. [Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513102435717017600/)
 - **2026-10-05** Mythos-found Rejetto HFS bug exploited a day after disclosure, Google pauses OSS VRP product reports over AI slop, plus GitLab AI Gateway CVSS 9.9 and Strata. Angle: finding bugs got cheap, triage and patching did not. 4-page carousel. [Post](https://www.linkedin.com/feed/update/urn:li:activity:7512739625124294657/)
 - **2026-10-03** Apple tightens macOS Full Disk Access, naming AI agents as the reason, plus Supabase/Turso/Compute and SIFT. Angle: if your agent needs the whole disk, that is a design smell. 4-page carousel. [Post](https://www.linkedin.com/feed/update/urn:li:activity:7512015080704610304/)
