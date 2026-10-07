@@ -33,3 +33,6 @@ Sources:
 ## Voice
 
 900 to 1300 characters. A real hook on line one. Concrete verified numbers. One genuine opinion or synthesis. Two smaller "also worth your time" items. One discussion question to close. Four or five hashtags. No em dashes, no emoji, no hype adjectives, no AI tells. Craft conventions follow https://github.com/sergebulaev/linkedin-skills.
+
+## Carousel format (from 2026-10-07)
+Every carousel follows CAROUSEL.md and is rendered with tools/carousel/pro.py (hook, setup, 2-3 stat slides, my take, follow). Do not hand-draw slides.

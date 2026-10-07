@@ -1,0 +1,22 @@
+{
+  "accent": "blue",
+  "author": {
+    "name": "Selvin PaulRaj K",
+    "tagline": "AI Engineer · Agents · MCP · RAG",
+    "avatar": "assets/avatar.png",
+    "handles": [
+      {"icon": "in", "text": "in/selvinpaulraj"},
+      {"icon": "IG", "text": "@selvin_ennum_naan"},
+      {"icon": "X", "text": "@Selvinpaulrajk"}
+    ]
+  },
+  "slides": [
+    {"type": "hook", "label": "Open models · Oct 6, 2026", "title": "A 740M model beat a 1 trillion one on my list", "body": "Here's why the small launch matters more for agents", "hero": "assets/hero_sample.png"},
+    {"type": "text", "label": "The setup", "title": "Two launches. Same day.", "body": "Mistral shipped a 1T-parameter giant. Google shipped a 740M embedding model. Guess which one got the headlines."},
+    {"type": "stat", "label": "The giant", "stat": "1T", "title": "Mistral Large 4", "body": "49B active params. Preview API at $1.36 in, $4.18 out per 1M tokens. Weights land end of October."},
+    {"type": "stat", "label": "The small one", "stat": "740M", "title": "EmbeddingGemma 2", "body": "Text, code, images, audio and video in one embedding space. Apache 2.0, on Hugging Face now. 191MB RAM on a phone."},
+    {"type": "stat", "label": "The twist", "stat": "78.68", "title": "MTEB Code, up from 68.76", "body": "And truncate vectors from 768 to 128 dims for up to 6x less storage."},
+    {"type": "take", "label": "My take", "title": "Fix retrieval before you upgrade the LLM", "body": "A lot of bad agent answers start at retrieval. A new embedder is a swap you can test today. A 1T model is a hosting decision you can't make until the weights ship."},
+    {"type": "follow", "title": "Follow for daily AI news for builders", "button": "FOLLOW", "footer": "Save this · Share it with a builder"}
+  ]
+}
