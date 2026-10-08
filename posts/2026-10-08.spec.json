@@ -1,0 +1,70 @@
+{
+  "accent": "amber",
+  "author": {
+    "name": "Selvin PaulRaj K",
+    "tagline": "AI Engineer · Agents · MCP · RAG",
+    "avatar": "assets/avatar.png",
+    "handles": [
+      {
+        "icon": "in",
+        "text": "in/selvinpaulraj"
+      },
+      {
+        "icon": "IG",
+        "text": "@selvin_ennum_naan"
+      },
+      {
+        "icon": "X",
+        "text": "@Selvinpaulrajk"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "type": "hook",
+      "label": "RAG security · Oct 8, 2026",
+      "title": "Your vector index can redraw your documents",
+      "body": "Pages inverted from stored vectors were re-identified 98.4% of the time",
+      "hero": "assets/hero-2026-10-08.png"
+    },
+    {
+      "type": "text",
+      "label": "The setup",
+      "title": "Nobody can read a vector. Right?",
+      "body": "Visual document retrievers store each page as about 1,000 patch vectors. Most teams treat that index as harmless."
+    },
+    {
+      "type": "stat",
+      "label": "The attack",
+      "stat": "47%",
+      "title": "Words recovered",
+      "body": "An inverter redraws pages from the raw index alone. It also recovers 45% of sensitive tokens."
+    },
+    {
+      "type": "stat",
+      "label": "The match",
+      "stat": "98.4%",
+      "title": "Pages re-identified",
+      "body": "Inverted pages ranked their source page first across 19,252 ViDoRe v3 pages."
+    },
+    {
+      "type": "stat",
+      "label": "The false fix",
+      "stat": "93.5%",
+      "title": "Shuffling doesn't hold",
+      "body": "A position model restores vector order and lifts re-identification from 3.8% to 93.5%."
+    },
+    {
+      "type": "take",
+      "label": "My take",
+      "title": "Protect the index like the documents",
+      "body": "Same access controls, same encryption, same vendor review. Token pooling is the one defence this attack hasn't broken yet."
+    },
+    {
+      "type": "follow",
+      "title": "Follow for daily AI news for builders",
+      "button": "FOLLOW",
+      "footer": "Save this · Share it with a builder"
+    }
+  ]
+}
