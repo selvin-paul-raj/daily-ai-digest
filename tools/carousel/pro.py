@@ -92,7 +92,14 @@ def block_height(items):
 def render(spec, outdir):
     os.makedirs(outdir, exist_ok=True)
     acc = spec.get("accent", "blue"); A = hexrgb(ACCENTS.get(acc, acc))
-    a = spec["author"]; a["avatar"] = os.path.join(HERE, a["avatar"]) if not os.path.isabs(a["avatar"]) else a["avatar"]
+    a = spec["author"]
+    # DEC-028: one brand for every agent's carousel (name, tagline, handles).
+    # Inside AEON it reads departments/content/brand.json; elsewhere the fallback below.
+    b = {"name": "Selvin PaulRaj K", "tagline": "APPLIED AI ENGINEER · AI RESEARCHER"}
+    brand = os.path.normpath(os.path.join(HERE, "..", "..", "..", "..", "content", "brand.json"))
+    if os.path.exists(brand): b = json.load(open(brand))
+    a.update({k: b[k] for k in ("name", "tagline", "handles") if k in b})
+    a["avatar"] = os.path.join(HERE, a["avatar"]) if not os.path.isabs(a["avatar"]) else a["avatar"]
     slides = spec["slides"]; n = len(slides); paths = []
     CW = W - 2 * M
     for i, s in enumerate(slides):
