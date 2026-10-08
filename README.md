@@ -1,5 +1,7 @@
 # daily-ai-digest
 
+> **Moved (2026-10-08):** this archive now lives in the private AEON repo at `departments/linkedin/digest/` (DEC-027), together with one ledger of every post from every agent (`departments/content/published.jsonl`). New posts and engagement logs go there. This repo is mirrored into AEON until the move is complete.
+
 A running archive of daily AI and tech news digests, and the LinkedIn post published from each one.
 
 Maintained for [Selvin PaulRaj K](https://linkedin.com/in/selvinpaulraj) (Applied AI Engineer, Chennai). One entry per publishing day.
