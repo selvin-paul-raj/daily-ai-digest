@@ -1,0 +1,23 @@
+{
+  "accent": "violet",
+  "author": {
+    "name": "Selvin PaulRaj K",
+    "tagline": "APPLIED AI ENGINEER · AI RESEARCHER",
+    "avatar": "assets/avatar.png",
+    "handles": [
+      {"icon": "in", "text": "in/selvinpaulraj"},
+      {"icon": "IG", "text": "@selvin_ennum_naan"},
+      {"icon": "X", "text": "@Selvinpaulrajk"}
+    ]
+  },
+  "slides": [
+    {"type": "hook", "label": "AI infra security · Oct 9, 2026", "title": "Two critical AI bugs. One mistake: trusting localhost", "body": "CVSS 9.8 in LMCache, 9.4 in DeepSeek Harness", "hero": "assets/hero-2026-10-09.png"},
+    {"type": "text", "label": "The setup", "title": "Where the trust broke", "body": "LMCache shares vLLM's KV cache over ZeroMQ. DeepSeek Harness runs coding agents behind a local HTTP API."},
+    {"type": "stat", "label": "LMCache", "stat": "9.8", "title": "One message runs code", "body": "An unauthenticated socket unpickles the payload before any check. Official images run it as root."},
+    {"type": "stat", "label": "LMCache", "stat": "0", "title": "Fixed versions today", "body": "0.3.9 through 0.5.5 are affected. JFrog says keep the port off routable addresses."},
+    {"type": "stat", "label": "DeepSeek Harness", "stat": "9.4", "title": "The agent freed itself", "body": "The API trusted the Host header. The sandbox left loopback open, so one command lifted it."},
+    {"type": "stat", "label": "DeepSeek Harness", "stat": "215K", "title": "GitHub stars in weeks", "body": "Fixed in 0.1.2-alpha.1. A coding agent can reach your SSH keys and cloud credentials."},
+    {"type": "take", "label": "My take", "title": "Localhost is not authentication", "body": "Authenticate every internal socket, never unpickle network data, and sandbox the network, not just the disk."},
+    {"type": "follow", "title": "Follow for daily AI news for builders", "button": "FOLLOW", "footer": "Save this · Share it with a builder"}
+  ]
+}

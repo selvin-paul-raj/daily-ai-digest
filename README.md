@@ -27,6 +27,7 @@ LOG.md                 one line per day, newest first
 
 | Date | Topic | LinkedIn |
 |---|---|---|
+| 2026-10-09 | Two critical AI bugs. One mistake: trusting localhost | [view](https://www.linkedin.com/feed/update/urn:li:activity:7514190103364169728/) |
 | 2026-10-08 | Your vector index can redraw your documents | [view](https://www.linkedin.com/feed/update/urn:li:activity:7513827348560072704/) |
 | 2026-10-07 | Agentic retrieval, priced out | [view](https://www.linkedin.com/feed/update/urn:li:activity:7513465334754992129/) |
 | 2026-10-06 | Reflection Beam and the two-token RL gap | [view](https://www.linkedin.com/feed/update/urn:li:ugcPost:7513102435717017600/) |
