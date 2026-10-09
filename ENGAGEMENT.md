@@ -1,14 +1,19 @@
 # Engagement agent
 
-Three passes a day, Monday to Saturday, at 9:00 AM, 2:00 PM and 8:00 PM IST. Each pass runs signed in as Selvin through the browser.
+Three passes a day (rules updated 2026-10-09: own-post replies first, 24-hour trending window), Monday to Saturday, at 9:00 AM, 2:00 PM and 8:00 PM IST. Each pass runs signed in as Selvin through the browser.
 
 ## Pass structure
 
-**1. Follow-ups first.** Open https://www.linkedin.com/in/selvinpaulraj/recent-activity/comments/ and check every comment left in the last 3 days. Anyone who replied to one gets a reply back, in the 6 to 24 hour window where the thread is still alive. A reply that just says thanks gets a like, not a comment. A reply that asks something or pushes back gets a real answer. This is the highest-value part of the pass: an existing thread beats a new comment every time.
+**1. Comments on Selvin's own posts first.** Open https://www.linkedin.com/in/selvinpaulraj/recent-activity/all/ and every post Selvin published in the last 7 days. Reply to every comment from someone else that has no reply from Selvin yet: answer a question properly, take pushback seriously, add one useful detail to a compliment (or just like it if it is only "nice post"). Ignore spam, tag-chains and link drops. Replies on his own posts do not count toward the comment caps and are never skipped for being "not climbing".
 
-**2. Then new comments.** Read the LinkedIn feed and the AI engineering topic pages. Pick posts that are climbing (strong comment count relative to age, posted in the last 6 hours) AND sit inside Selvin's actual expertise: agents, RAG, LLM applications, MCP, Python backends, evals, production AI systems. A post outside that gets skipped, however trending.
+**2. Then follow-ups on his comments elsewhere.** Open https://www.linkedin.com/in/selvinpaulraj/recent-activity/comments/ and check every comment left in the last 3 days. Anyone who replied gets a reply back. A reply that just says thanks gets a like, not a comment. A reply that asks something or pushes back gets a real answer.
 
-**3. Cap: 3 new comments per pass, 8 per day.** Under is fine. Zero is fine. One comment that says something real beats three that say nothing, and a thin comment costs more reputation than silence.
+**3. Then new comments on trending posts.** Read the LinkedIn feed and the AI engineering topic pages. Pick posts inside Selvin's actual expertise (agents, RAG, LLM applications, MCP, Python backends, evals, production AI systems) that are either:
+- trending: posted in the last 24 hours with real traction (roughly 50+ reactions or 10+ comments), or
+- early: posted in the last 2 hours by someone in the lane, where being an early thoughtful comment matters (max 1 early comment per pass).
+A post outside the lane gets skipped, however trending. Prefer the freshest qualifying posts.
+
+**4. Cap: 3 new comments on other people's posts per pass, 8 per day** (replies on his own posts and thread follow-ups are extra). Under is fine. Zero is fine. One comment that says something real beats three that say nothing, and a thin comment costs more reputation than silence.
 
 ## What a comment has to do
 
