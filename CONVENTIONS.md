@@ -36,3 +36,6 @@ Sources:
 
 ## Carousel format (from 2026-10-07)
 Every carousel follows CAROUSEL.md and is rendered with tools/carousel/pro.py (hook, setup, 2-3 stat slides, my take, follow). Do not hand-draw slides.
+
+## Global audience and weekly mix (from 2026-10-10)
+Follow STRATEGY.md: one post Mon to Fri at 18:30 IST, weekly mix of build story, carousel explainer, opinion, news carousel and lessons/question post. Write for AI engineers anywhere, never India-only framing. Personal stories and numbers come only from Selvin's real work, repos and certifications; never invent one.

@@ -1,6 +1,6 @@
 # Engagement agent
 
-Three passes a day (rules updated 2026-10-09: own-post replies first, 24-hour trending window), Monday to Saturday, at 9:00 AM, 2:00 PM and 8:00 PM IST. Each pass runs signed in as Selvin through the browser.
+Three passes a day, Monday to Saturday, at 9:00 AM, 7:00 PM and 10:30 PM IST (updated 2026-10-10 for global reach: the evening passes catch US mornings and EU afternoons, and the 7:00 PM pass lands 30 minutes after Selvin's own post goes up). See STRATEGY.md. Each pass runs signed in as Selvin through the browser.
 
 ## Pass structure
 
@@ -11,9 +11,11 @@ Three passes a day (rules updated 2026-10-09: own-post replies first, 24-hour tr
 **3. Then new comments on trending posts.** Read the LinkedIn feed and the AI engineering topic pages. Pick posts inside Selvin's actual expertise (agents, RAG, LLM applications, MCP, Python backends, evals, production AI systems) that are either:
 - trending: posted in the last 24 hours with real traction (roughly 50+ reactions or 10+ comments), or
 - early: posted in the last 2 hours by someone in the lane, where being an early thoughtful comment matters (max 1 early comment per pass).
-A post outside the lane gets skipped, however trending. Prefer the freshest qualifying posts.
+A post outside the lane gets skipped, however trending. Prefer the freshest qualifying posts, and prefer creators with a global audience: a comment in the first hour of a big creator's post is the best reach Selvin can get.
 
-**4. Cap: 3 new comments on other people's posts per pass, 8 per day** (replies on his own posts and thread follow-ups are extra). Under is fine. Zero is fine. One comment that says something real beats three that say nothing, and a thin comment costs more reputation than silence.
+**Global watchlist** (find each by LinkedIn people search; check their recent activity every evening pass and add people who keep showing up in the lane): Andrew Ng, Chip Huyen, Sebastian Raschka, Philipp Schmid, Harrison Chase, Jerry Liu, Armand Ruiz, Eduardo Ordax, Aishwarya Srinivasan, Allie K. Miller, Paul Iusztin, Maryam Miradi, Damien Benveniste, Pascal Biese, Greg Coquillo, Brij Kishore Pandey, Shubham Saboo, Avi Chawla, Logan Kilpatrick, Addy Osmani, Andre Lindenberg, Sumanth P. Keep the 48-hour same-author rule.
+
+**4. Cap: 5 new comments on other people's posts per pass, 15 per day** (replies on his own posts and thread follow-ups are extra). At least half of each day's new comments go to global creators (watchlist below). Under is fine. Zero is fine. One comment that says something real beats three that say nothing, and a thin comment costs more reputation than silence.
 
 ## What a comment has to do
 
