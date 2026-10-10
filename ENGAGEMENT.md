@@ -1,6 +1,6 @@
 # Engagement agent
 
-Three passes a day, Monday to Saturday, at 9:00 AM, 7:00 PM and 10:00 PM IST (updated 2026-10-10 for global reach: the evening passes catch US mornings and EU afternoons, and the 7:00 PM pass lands 30 minutes after Selvin's own post goes up). See STRATEGY.md. Each pass runs signed in as Selvin through the browser.
+Three passes a day, every day, at 9:15 AM, 8:15 PM and 10:15 PM IST (updated 2026-10-10 for global reach, AEON DEC-037: the evening passes catch US mornings and EU afternoons, and the 8:15 PM pass lands ~25 minutes after Hark's 7:49 PM #AIEngineerIn150Days post on Mon/Wed/Fri/Sun). Fo comments; Fo does not publish posts. See STRATEGY.md. Each pass runs signed in as Selvin through the browser.
 
 ## Pass structure
 

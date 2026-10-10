@@ -12,17 +12,14 @@ Goal: global reach, more engagement, and a profile LinkedIn's editors would pick
 ## Top Voice, honestly
 The blue Top Voice badge is invite-only, picked by LinkedIn's editorial team and reviewed about twice a year. No follower threshold. Signals: consistent posting, original voice, real expertise, professionalism, influence. A nomination form exists (no more than once every 6 months). Nothing can guarantee it; the plan below builds the record editors look for.
 
-## Content (Mon to Fri, one post a day, 18:30 IST = 9:00 ET / 14:00 UK)
-Weekly mix:
-- Mon: build story. Something Selvin actually built or debugged, first person, with real numbers from his own work only (Draup DRI-MAS, hybrid FAISS+BM25 RAG over 2.4M records, LangGraph systems, MCP tools, his GitHub repos). Never invent a story or a number.
-- Tue: carousel explainer (CAROUSEL.md). Evergreen how-to for AI engineers: patterns, failure modes, architecture.
-- Wed: opinion or contrarian take on the week's biggest AI engineering story, his angle in line one.
-- Thu: carousel on the news (the digest format), only when a story matters to builders.
-- Fri: lessons or "what I'd tell a junior AI engineer" post, or a question post that invites answers.
-Rules: write for AI engineers anywhere (no India-only framing), hook under 12 words, one idea, end with a real question, links in first comment, 3 to 5 global hashtags.
+## Posts: Hark's #AIEngineerIn150Days (AEON DEC-034)
+Posting belongs to Hark's #AIEngineerIn150Days series, Mon/Wed/Fri/Sun 19:49 IST (10:19 AM New York, 3:19 PM London), plan v3 in AEON departments/content/learning-series/plan-v3.md. No daily news digests on LinkedIn, and never two LinkedIn posts within 24 hours. Fo's digest post schedule is paused (2026-10-10). News research can feed Hark's opinion posts.
+
+## Ranking target
+Selvin wants a top-10 creator ranking (e.g. Favikon's India AI creators) besides the Top Voice record. Track rank monthly once a source is confirmed.
 
 ## Comments (the main lever for global reach)
-- Reply to every comment on his own posts, fast. The 19:00 pass catches the first 30 minutes of each post.
+- Fo owns comments (AEON DEC-037). Reply to every comment on his own posts, fast. The 20:15 pass lands ~25 minutes after each 19:49 post.
 - Comment early on global AI creators with large audiences (see ENGAGEMENT.md watchlist). Being one of the first 10 thoughtful comments on a post seen by 100k people beats a week of posts seen by 400.
 - Up to 5 new comments per pass, 15 a day, quality bar unchanged.
 
