@@ -1,6 +1,6 @@
 # Engagement agent
 
-Three passes a day, Monday to Saturday, at 9:00 AM, 7:00 PM and 10:30 PM IST (updated 2026-10-10 for global reach: the evening passes catch US mornings and EU afternoons, and the 7:00 PM pass lands 30 minutes after Selvin's own post goes up). See STRATEGY.md. Each pass runs signed in as Selvin through the browser.
+Three passes a day, Monday to Saturday, at 9:00 AM, 7:00 PM and 10:00 PM IST (updated 2026-10-10 for global reach: the evening passes catch US mornings and EU afternoons, and the 7:00 PM pass lands 30 minutes after Selvin's own post goes up). See STRATEGY.md. Each pass runs signed in as Selvin through the browser.
 
 ## Pass structure
 
